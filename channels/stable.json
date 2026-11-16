@@ -1,26 +1,26 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.8.0",
-  "build": "10",
-  "notes": "Haptics: feel the snaps, gear shifts, plate fans and page turns (Settings › Haptics; off while hand control or the sky window runs). The sky window now uses where you stand (asks for location once when it opens).",
-  "published": "2026-11-16T22:05:10.530Z",
-  "minNative": 4,
-  "nativeHash": "79cb58b8d98d9ac68d1cc7d9babd754c604742bf980563be16027b69f7edc299",
+  "version": "0.9.0",
+  "build": "11",
+  "notes": "Offline shelf: Shelf › Download all puts the 30 public-domain books (1.49 GB) on your phone — pause, resume, delete, storage meter; books read with no network (airplane mode). Import your own PDFs privately (＋ Import PDF; stays on this phone).",
+  "published": "2026-11-16T22:57:02.667Z",
+  "minNative": 5,
+  "nativeHash": "f53a270a39f6b828a13aab0fd103a6affa827b23786e1ebc2b1473537b73956c",
   "assetBase": "https://github.com/nachochi/astrolabe-updates/releases/download/assets/",
   "bundle": {
-    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.8.0/astrolabe-web-0.8.0.zip",
-    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.8.0/astrolabe-web-0.8.0.zip.sig",
-    "sha256": "24284acc5af13e4f47748d69d75d2b70eb0984b3de06977b4336b8235897c89f",
-    "size": 1005563
+    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.9.0/astrolabe-web-0.9.0.zip",
+    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.9.0/astrolabe-web-0.9.0.zip.sig",
+    "sha256": "0e0a208a1bb2e447c50df275a85b2564c0a596f70f34017a9dbad325c19a18d8",
+    "size": 1013995
   },
   "apk": {
-    "versionCode": 4,
-    "versionName": "0.8.0",
-    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/app-4/astrolabe-0.8.0.apk",
-    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/app-4/astrolabe-0.8.0.apk.sig",
-    "sha256": "e88baeb1ecdcd1e21bf5afd25e1a33491a3a11d987852d9172ae67c9dd5c3e6f",
-    "size": 28477132,
-    "notes": "Haptics: feel the snaps, gear shifts, plate fans and page turns (Settings › Haptics; off while hand control or the sky window runs). The sky window now uses where you stand (asks for location once when it opens)."
+    "versionCode": 5,
+    "versionName": "0.9.0",
+    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/app-5/astrolabe-0.9.0.apk",
+    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/app-5/astrolabe-0.9.0.apk.sig",
+    "sha256": "71d6483445300a3d8c77e78dbdfaa2f0f7a322631212ed44775423f690253d6b",
+    "size": 28491868,
+    "notes": "Offline shelf: Shelf › Download all puts the 30 public-domain books (1.49 GB) on your phone — pause, resume, delete, storage meter; books read with no network (airplane mode). Import your own PDFs privately (＋ Import PDF; stays on this phone)."
   }
 }
