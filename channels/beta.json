@@ -1,26 +1,26 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "0.2.1",
-  "build": "2",
-  "notes": "Settings › Updates now shows the build number and when it last checked.",
-  "published": "2026-11-16T19:29:07.204Z",
-  "minNative": 2,
+  "version": "0.2.2",
+  "build": "3",
+  "notes": "Fixes the updater so this app version checks for and installs updates by itself. Settings › Updates shows the build and last check.",
+  "published": "2026-11-16T19:35:50.136Z",
+  "minNative": 3,
   "nativeHash": "71851d59519f587e23304dd91b10aca03a70c0836a54d2b6d0f3dd6735c5181d",
   "assetBase": "https://github.com/nachochi/astrolabe-updates/releases/download/assets/",
   "bundle": {
-    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.2.1/astrolabe-web-0.2.1.zip",
-    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.2.1/astrolabe-web-0.2.1.zip.sig",
-    "sha256": "6f3ddca5507f20727d4d1bfa64f86421325507765c5e2ddbe89e7872c28718b9",
-    "size": 986268
+    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.2.2/astrolabe-web-0.2.2.zip",
+    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.2.2/astrolabe-web-0.2.2.zip.sig",
+    "sha256": "64d7ce5e15d92c1932355bfe201e40daf15fd2eaffb8d271d4f7cd95f8fac791",
+    "size": 989118
   },
   "apk": {
-    "versionCode": 2,
-    "versionName": "0.2.0",
-    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/app-2/astrolabe-0.2.0.apk",
-    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/app-2/astrolabe-0.2.0.apk.sig",
-    "sha256": "9d8215f101b5285fe33432c949fc9dafe0685db5619fadb082ec46deaf311538",
-    "size": 28457116,
-    "notes": "Self-updating app: new versions now arrive by themselves (signed, with automatic rollback). Settings › Updates shows version, channel and what's new."
+    "versionCode": 3,
+    "versionName": "0.2.2",
+    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/app-3/astrolabe-0.2.2.apk",
+    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/app-3/astrolabe-0.2.2.apk.sig",
+    "sha256": "382cbf1356e6e4b6e2fa95db264258b0be0f1dd7e40f12db736203c43cca931d",
+    "size": 28460056,
+    "notes": "Fixes the updater so this app version checks for and installs updates by itself. Settings › Updates shows the build and last check."
   }
 }
