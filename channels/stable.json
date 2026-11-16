@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.5.0",
-  "build": "7",
-  "notes": "Pinch the wheel vertically (or press F) to fan the glass plates apart; tap one to slide it out.",
-  "published": "2026-11-16T21:10:20.247Z",
+  "version": "0.6.0",
+  "build": "8",
+  "notes": "Book posture: drag the › tab across the hinge to turn the page to the next event at your tempo.",
+  "published": "2026-11-16T21:25:38.696Z",
   "minNative": 3,
   "nativeHash": "71851d59519f587e23304dd91b10aca03a70c0836a54d2b6d0f3dd6735c5181d",
   "assetBase": "https://github.com/nachochi/astrolabe-updates/releases/download/assets/",
   "bundle": {
-    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.5.0/astrolabe-web-0.5.0.zip",
-    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.5.0/astrolabe-web-0.5.0.zip.sig",
-    "sha256": "677a57b52e6beb8e4c18cd5d05143de729b34de1ccf738bf804b3f9aaf91cc4c",
-    "size": 997181
+    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.6.0/astrolabe-web-0.6.0.zip",
+    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.6.0/astrolabe-web-0.6.0.zip.sig",
+    "sha256": "1464087e252fd0e6b51ff24b16830d8cdab22c23ee740416ae0397b29a60c91f",
+    "size": 998942
   },
   "apk": {
     "versionCode": 3,
