@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "0.4.0",
-  "build": "6",
-  "notes": "Spin the wheel faster to shift gears (rest a second finger to hold); in tabletop the hinge lowers the 3D sky to the horizon.",
-  "published": "2026-11-16T20:56:44.210Z",
+  "version": "0.5.0",
+  "build": "7",
+  "notes": "Pinch the wheel vertically (or press F) to fan the glass plates apart; tap one to slide it out.",
+  "published": "2026-11-16T21:10:20.247Z",
   "minNative": 3,
   "nativeHash": "71851d59519f587e23304dd91b10aca03a70c0836a54d2b6d0f3dd6735c5181d",
   "assetBase": "https://github.com/nachochi/astrolabe-updates/releases/download/assets/",
   "bundle": {
-    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.4.0/astrolabe-web-0.4.0.zip",
-    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.4.0/astrolabe-web-0.4.0.zip.sig",
-    "sha256": "2d5baf779f4850908c5ad3053f93f537ecf211e74dd9a453aad835b5d3d08ced",
-    "size": 995942
+    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.5.0/astrolabe-web-0.5.0.zip",
+    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.5.0/astrolabe-web-0.5.0.zip.sig",
+    "sha256": "677a57b52e6beb8e4c18cd5d05143de729b34de1ccf738bf804b3f9aaf91cc4c",
+    "size": 997181
   },
   "apk": {
     "versionCode": 3,
