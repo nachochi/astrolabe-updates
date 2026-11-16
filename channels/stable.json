@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.3.0",
-  "build": "4",
-  "notes": "A calmer, clearer instrument (UX pass 1):\n• Time tape: drag the engraved ruler under the gold index; flick to coast; tap a gold mark to jump to that event.\n• Tempo dial replaces the speed menu: tap = faster, hold = slower, or swipe.\n• Tap a planet on the wheel: the centre shows its live position and 144,000 address. Taps no longer stop live time.\n• Labels never shrink below readable sizes and spread apart with leader lines.\n• Unfolded: nothing sits on the crease; the time controls live on the wheel page.\n• Plates: ● in / ○ out, equal width; drag a plate down or up, or tap.\n• Shows: GO is the one big button; ✕ in the corner.\n• Debug overlay moved into Settings.",
-  "published": "2026-11-16T20:16:24.397Z",
+  "version": "0.3.1",
+  "build": "5",
+  "notes": "Fix: retrograde planets now show \"Rx\" instead of an empty box.",
+  "published": "2026-11-16T20:26:21.579Z",
   "minNative": 3,
   "nativeHash": "71851d59519f587e23304dd91b10aca03a70c0836a54d2b6d0f3dd6735c5181d",
   "assetBase": "https://github.com/nachochi/astrolabe-updates/releases/download/assets/",
   "bundle": {
-    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.3.0/astrolabe-web-0.3.0.zip",
-    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.3.0/astrolabe-web-0.3.0.zip.sig",
-    "sha256": "4bb1c8ba5b5a17610f4e708e72b12b4b6cf8c8bfc06503b11b46ba7a8965dd27",
-    "size": 994288
+    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.3.1/astrolabe-web-0.3.1.zip",
+    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.3.1/astrolabe-web-0.3.1.zip.sig",
+    "sha256": "94d238b5b5cb4757da80bb3449867b711eb44cb5de6bfbc2639f72b257f146e6",
+    "size": 994291
   },
   "apk": {
     "versionCode": 3,
