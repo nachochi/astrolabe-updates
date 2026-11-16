@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "0.2.0",
-  "build": "1",
-  "notes": "Self-updating app: new versions now arrive by themselves (signed, with automatic rollback). Settings › Updates shows version, channel and what's new.",
-  "published": "2026-11-16T19:26:56.237Z",
+  "version": "0.2.1",
+  "build": "2",
+  "notes": "Settings › Updates now shows the build number and when it last checked.",
+  "published": "2026-11-16T19:29:07.204Z",
   "minNative": 2,
   "nativeHash": "71851d59519f587e23304dd91b10aca03a70c0836a54d2b6d0f3dd6735c5181d",
   "assetBase": "https://github.com/nachochi/astrolabe-updates/releases/download/assets/",
   "bundle": {
-    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.2.0/astrolabe-web-0.2.0.zip",
-    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.2.0/astrolabe-web-0.2.0.zip.sig",
-    "sha256": "a99d6a7f4c23816dc8c4846be9371c85646a4d94b6cadde30a77fce2f3506027",
-    "size": 986180
+    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.2.1/astrolabe-web-0.2.1.zip",
+    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.2.1/astrolabe-web-0.2.1.zip.sig",
+    "sha256": "6f3ddca5507f20727d4d1bfa64f86421325507765c5e2ddbe89e7872c28718b9",
+    "size": 986268
   },
   "apk": {
     "versionCode": 2,
