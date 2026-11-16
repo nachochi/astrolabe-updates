@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.6.0",
-  "build": "8",
-  "notes": "Book posture: drag the › tab across the hinge to turn the page to the next event at your tempo.",
-  "published": "2026-11-16T21:25:38.696Z",
+  "version": "0.7.0",
+  "build": "9",
+  "notes": "Hold it to the sky: Settings › 🔭 Sky window (or turn on 'Hold it to the sky' and raise the phone overhead) shows the real sky with the zodiac laid on the true ecliptic; drag the bottom strip to turn time.",
+  "published": "2026-11-16T21:47:40.201Z",
   "minNative": 3,
   "nativeHash": "71851d59519f587e23304dd91b10aca03a70c0836a54d2b6d0f3dd6735c5181d",
   "assetBase": "https://github.com/nachochi/astrolabe-updates/releases/download/assets/",
   "bundle": {
-    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.6.0/astrolabe-web-0.6.0.zip",
-    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.6.0/astrolabe-web-0.6.0.zip.sig",
-    "sha256": "1464087e252fd0e6b51ff24b16830d8cdab22c23ee740416ae0397b29a60c91f",
-    "size": 998942
+    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.7.0/astrolabe-web-0.7.0.zip",
+    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.7.0/astrolabe-web-0.7.0.zip.sig",
+    "sha256": "e599b08c3ed01ee847127a3eb8e7f5f2ad5cd9aec00244e1867153989f30fc7e",
+    "size": 1004997
   },
   "apk": {
     "versionCode": 3,
