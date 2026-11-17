@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.17.0",
-  "build": "19",
-  "notes": "Voyager 1 is one light-day from Earth on Wed 18 Nov 2026, 05:16 EST (NASA). In the 3D sky's depth panes, the Voyager 1 label now shows its live light-time ('23 h 59 m of light · one light-day in 10 h' → 'one light-day from Earth — now'). Palette: 'voyager' jumps to the moment, opens the Oort pane and faces the probe.",
-  "published": "2026-11-17T03:35:08.032Z",
+  "version": "0.18.0",
+  "build": "20",
+  "notes": "Faster depth panes: the glass shells are pre-rendered and only redrawn when the view changes (half size while moving, full quality at rest), and the Milky Way / CMB maps are baked into the glass once. On the test GPU the panes frame drops from ~5.7 ms to ~2.4 ms while time plays or you scrub, ~4.0 ms while you move the view.",
+  "published": "2026-11-17T04:22:25.180Z",
   "minNative": 5,
   "nativeHash": "f53a270a39f6b828a13aab0fd103a6affa827b23786e1ebc2b1473537b73956c",
   "assetBase": "https://github.com/nachochi/astrolabe-updates/releases/download/assets/",
   "bundle": {
-    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.17.0/astrolabe-web-0.17.0.zip",
-    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.17.0/astrolabe-web-0.17.0.zip.sig",
-    "sha256": "3e3faa21b85fa449e855f4d75a824af78222b95d4edcccb6dfe4b7c3064f6849",
-    "size": 1089426
+    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.18.0/astrolabe-web-0.18.0.zip",
+    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.18.0/astrolabe-web-0.18.0.zip.sig",
+    "sha256": "80629a09c15ffe15b0b4f5f04da6aad090cd7047331c72dbbfcbcc1a27b0a540",
+    "size": 1090784
   },
   "apk": {
     "versionCode": 5,
