@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "0.9.0",
-  "build": "11",
-  "notes": "Offline shelf: Shelf › Download all puts the 30 public-domain books (1.49 GB) on your phone — pause, resume, delete, storage meter; books read with no network (airplane mode). Import your own PDFs privately (＋ Import PDF; stays on this phone).",
-  "published": "2026-11-16T22:57:02.667Z",
+  "version": "0.10.0",
+  "build": "12",
+  "notes": "Sphere of light, step 1: H144 — the sky as 144,000 equal-area cells. Turn on the new H144 plate, open the 3D sky and tap anywhere: the cell lights and a glass slip gives its address (H144 + seed-of-life digits, as fine as your tap can resolve), its place in ecliptic, equatorial, galactic and invariable-plane coordinates and its 64-bit word. Tap the round frame tag to turn the grid ECL → EQ → GAL → INV.",
+  "published": "2026-11-17T00:32:26.020Z",
   "minNative": 5,
   "nativeHash": "f53a270a39f6b828a13aab0fd103a6affa827b23786e1ebc2b1473537b73956c",
   "assetBase": "https://github.com/nachochi/astrolabe-updates/releases/download/assets/",
   "bundle": {
-    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.9.0/astrolabe-web-0.9.0.zip",
-    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.9.0/astrolabe-web-0.9.0.zip.sig",
-    "sha256": "0e0a208a1bb2e447c50df275a85b2564c0a596f70f34017a9dbad325c19a18d8",
-    "size": 1013995
+    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.10.0/astrolabe-web-0.10.0.zip",
+    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.10.0/astrolabe-web-0.10.0.zip.sig",
+    "sha256": "42c42530f21301d2c5afe03f0e62e156a942d3953611d599f16ea271e81dd6b1",
+    "size": 1022387
   },
   "apk": {
     "versionCode": 5,
