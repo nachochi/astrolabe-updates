@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "0.19.0",
-  "build": "21",
-  "notes": "0.19 One instrument. 3D is now the wheel seen with depth: the chart plane tilts in from the wheel, the orbit stays level (no roll, no flips), a 'level' chip and two-finger tap bring it back. Planar lenses (horizon, meridian, ecliptic, equator, prime vertical) are the spine: tap a plane, tap a side to isolate a hemisphere, quadrant (houses 10-12, 7-9, 1-3, 4-6) or octant; the wheel and the 3D show the same isolation. Analemma: the 8 stays still while you scrub (horizon pinned); twist while holding the clock turns the clock hand. One entry/exit, one hint line, one stack of engraved lines; first-tap miss fixed.",
-  "published": "2026-11-17T07:27:19.909Z",
+  "version": "0.20.0",
+  "build": "22",
+  "notes": "0.20: every feature refined with 12+ logged passes — Iris Drive, telescope/pane focus, glass panes (constellation names), Voyager live title, settings groups/presets/Open-on, command palette, ⏱ timer HUD, Sound (ducking, mute states), Cosmodex card + pick fan keyboard, analemma marks. Shared gold + timing, readable 3D isolation, startup-frame regression fixed.",
+  "published": "2026-11-17T08:47:36.920Z",
   "minNative": 5,
   "nativeHash": "f53a270a39f6b828a13aab0fd103a6affa827b23786e1ebc2b1473537b73956c",
   "assetBase": "https://github.com/nachochi/astrolabe-updates/releases/download/assets/",
   "bundle": {
-    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.19.0/astrolabe-web-0.19.0.zip",
-    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.19.0/astrolabe-web-0.19.0.zip.sig",
-    "sha256": "6a4e2cf1c921f13f4707a48c91ac5365fee76df3c21046e155b8f520041df0da",
-    "size": 1097837
+    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.20.0/astrolabe-web-0.20.0.zip",
+    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.20.0/astrolabe-web-0.20.0.zip.sig",
+    "sha256": "0681ea3cd8417ada273963bddf40c5ffe9943fcaef506d6490aa83a99cec5071",
+    "size": 1106015
   },
   "apk": {
     "versionCode": 5,
