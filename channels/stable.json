@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.22.0",
-  "build": "27",
-  "notes": "0.22: a calmer screen — layers tucked into one Layers button, Show and Arrange moved into Settings, fewer buttons at rest. Settings › Look & layout: Calm, Standard and Analyst looks, save your own, with live text size, density, glass, motion and layout per posture. Every card now works the same way: a trail, a back button and Next suggestions (learned on this device only; 'interest reset' forgets them). Tap a star in the 3D sky to open its catalog card. The catalog brings 3,674 credited stories from many cultures (each with its licence), plus Explain: how names like Tuesday travelled, step by step with sources. Planets show their real reflected colours; Lilly's colours are an opt-in tradition lens.",
-  "published": "2026-11-17T21:33:30.048Z",
+  "version": "0.23.0",
+  "build": "28",
+  "notes": "0.23: hold still on the wheel to dive into its subdivisions (Wheel Iris); five controls at rest with a rotary view dial and a swipeable page spine; tap a star beside the wheel for its catalog card; Astronomy/Symbols plates act in 3D; every card chip leads somewhere; portrait 3D fills its panel; chains graph browser; new Timeline view (graphic ephemeris, aspect bars, agenda, Moon strip) on the same events as the time bar.",
+  "published": "2026-11-17T23:59:37.123Z",
   "minNative": 7,
   "nativeHash": "f53a270a39f6b828a13aab0fd103a6affa827b23786e1ebc2b1473537b73956c",
   "assetBase": "https://github.com/nachochi/astrolabe-updates/releases/download/assets/",
   "bundle": {
-    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.22.0/astrolabe-web-0.22.0.zip",
-    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.22.0/astrolabe-web-0.22.0.zip.sig",
-    "sha256": "29c8476a8fe9128b4614d54e0297dfd8f32a1dc25dbe1b181b6732a3408f0a84",
-    "size": 1169207
+    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.23.0/astrolabe-web-0.23.0.zip",
+    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.23.0/astrolabe-web-0.23.0.zip.sig",
+    "sha256": "96e72b4d2e85d9634ad8a7cf4b3fcac82b1f81852aa1d8a45cbaaae848ee7bd2",
+    "size": 1181727
   },
   "apk": {
     "versionCode": 7,
