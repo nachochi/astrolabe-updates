@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "0.12.0",
-  "build": "14",
-  "notes": "Depth panes: the 3D sky's depth chip shows the sky as glass shells at real log distances — Moon, Sun & planets, Oort cloud, nearby stars, constellation stars at their real (Hipparcos) distances, Milky Way, Local Group, galaxies, and the cosmic microwave background (Planck 2018). The pane stack travels; pinch/wheel move through it. Spread moves stars to their real distances: from the side Orion opens up. A tapped cell is the same place on every pane.",
-  "published": "2026-11-17T01:23:14.385Z",
+  "version": "0.13.0",
+  "build": "15",
+  "notes": "Milestone 3: free-form probe on magnetic rails (ecliptic, equator, horizon by default) through one input grammar; pinch = telescope, hold + spread = focus through the glass panes from Earth, twist = time; settings as entries with profiles, a command palette (Ctrl+K or /), text export/import and undo; Open on.",
+  "published": "2026-11-17T02:12:28.996Z",
   "minNative": 5,
   "nativeHash": "f53a270a39f6b828a13aab0fd103a6affa827b23786e1ebc2b1473537b73956c",
   "assetBase": "https://github.com/nachochi/astrolabe-updates/releases/download/assets/",
   "bundle": {
-    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.12.0/astrolabe-web-0.12.0.zip",
-    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.12.0/astrolabe-web-0.12.0.zip.sig",
-    "sha256": "df969daf597670889e351f109d504aba2b40739ded7558d0273b8f850ed90280",
-    "size": 1057004
+    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.13.0/astrolabe-web-0.13.0.zip",
+    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.13.0/astrolabe-web-0.13.0.zip.sig",
+    "sha256": "07b7ba2d0b1562e4f79829f99a39ac7003ec9934e4ca0b58cc47efe260ec911e",
+    "size": 1071028
   },
   "apk": {
     "versionCode": 5,
