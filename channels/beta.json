@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "0.10.0",
-  "build": "12",
-  "notes": "Sphere of light, step 1: H144 — the sky as 144,000 equal-area cells. Turn on the new H144 plate, open the 3D sky and tap anywhere: the cell lights and a glass slip gives its address (H144 + seed-of-life digits, as fine as your tap can resolve), its place in ecliptic, equatorial, galactic and invariable-plane coordinates and its 64-bit word. Tap the round frame tag to turn the grid ECL → EQ → GAL → INV.",
-  "published": "2026-11-17T00:32:26.020Z",
+  "version": "0.11.0",
+  "build": "13",
+  "notes": "Telescope: pinch/wheel narrows the sky from 50° to 18″ with level of detail (baked H144 glass → live grid → flower-of-life sublevels). The cell readout is engraved on the glass beside the selected cell; tap again to clear. Pre-render: the H144 grid is baked once into a cube map (bake status in debug).",
+  "published": "2026-11-17T01:03:57.521Z",
   "minNative": 5,
   "nativeHash": "f53a270a39f6b828a13aab0fd103a6affa827b23786e1ebc2b1473537b73956c",
   "assetBase": "https://github.com/nachochi/astrolabe-updates/releases/download/assets/",
   "bundle": {
-    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.10.0/astrolabe-web-0.10.0.zip",
-    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.10.0/astrolabe-web-0.10.0.zip.sig",
-    "sha256": "42c42530f21301d2c5afe03f0e62e156a942d3953611d599f16ea271e81dd6b1",
-    "size": 1022387
+    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.11.0/astrolabe-web-0.11.0.zip",
+    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.11.0/astrolabe-web-0.11.0.zip.sig",
+    "sha256": "32fe18e1ed42f21983937e769b52b046cf3f02f59a024f1ebe4439fe933ddf8f",
+    "size": 1026380
   },
   "apk": {
     "versionCode": 5,
