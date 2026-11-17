@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.14.0",
-  "build": "16",
-  "notes": "Iris Drive: hold still on the sky and a pure circular pupil dilates while the commitment ring fills, then drives one rung on the ladder under your thumb — the next telescope rung on the wide sky, one seed-of-life level (field ÷ √7, with the spiral's 19.1° turn) under the telescope on H144, or the next glass pane outward in depth. 730 ms; reduced motion = a 200 ms crossfade. No blades, no slices.",
-  "published": "2026-11-17T02:35:48.347Z",
+  "version": "0.15.0",
+  "build": "17",
+  "notes": "Sound on + Song from the Sun. Sound stays off until you turn it on (Settings › Sound, or type 'voice.mode kepler' in Commands). Six glass voices sing each planet's real angular speed around the Sun, the quantity Kepler heard in 1619. Tap a planet on the wheel to solo it: the engraved line shows where it sits in its own range against Kepler's ratio (Mars: 1.455 vs 2:3). Tap the ♪ line to mute. Audio sleeps when silent or hidden.",
+  "published": "2026-11-17T02:51:45.126Z",
   "minNative": 5,
   "nativeHash": "f53a270a39f6b828a13aab0fd103a6affa827b23786e1ebc2b1473537b73956c",
   "assetBase": "https://github.com/nachochi/astrolabe-updates/releases/download/assets/",
   "bundle": {
-    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.14.0/astrolabe-web-0.14.0.zip",
-    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.14.0/astrolabe-web-0.14.0.zip.sig",
-    "sha256": "c2ffe267ef6df046ca3fcc8749a3fbc27658ce825fa33b7c1ed7807544c564fb",
-    "size": 1073011
+    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.15.0/astrolabe-web-0.15.0.zip",
+    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.15.0/astrolabe-web-0.15.0.zip.sig",
+    "sha256": "1bcec8989244a8b9e45f87e79cd0b1c32c51e7aad6fb08bead71bac987686065",
+    "size": 1075756
   },
   "apk": {
     "versionCode": 5,
