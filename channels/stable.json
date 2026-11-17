@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.20.0",
-  "build": "22",
-  "notes": "0.20: every feature refined with 12+ logged passes — Iris Drive, telescope/pane focus, glass panes (constellation names), Voyager live title, settings groups/presets/Open-on, command palette, ⏱ timer HUD, Sound (ducking, mute states), Cosmodex card + pick fan keyboard, analemma marks. Shared gold + timing, readable 3D isolation, startup-frame regression fixed.",
-  "published": "2026-11-17T08:47:36.920Z",
+  "version": "0.20.1",
+  "build": "23",
+  "notes": "0.20.1: real glass blur restored (Settings, palette, sky chips, pane stack, engraved lines) + opaque Settings on the open book; 3D labels declutter (Voyager clear of Barnard's Star and the pane stack); Voyager face-turn waits for the panes; Settings warmed while idle (first open 3× faster); true idle after pause (0 extra frames); the sky's engraving prints under the sky pane on the open book.",
+  "published": "2026-11-17T09:41:48.099Z",
   "minNative": 5,
   "nativeHash": "f53a270a39f6b828a13aab0fd103a6affa827b23786e1ebc2b1473537b73956c",
   "assetBase": "https://github.com/nachochi/astrolabe-updates/releases/download/assets/",
   "bundle": {
-    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.20.0/astrolabe-web-0.20.0.zip",
-    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.20.0/astrolabe-web-0.20.0.zip.sig",
-    "sha256": "0681ea3cd8417ada273963bddf40c5ffe9943fcaef506d6490aa83a99cec5071",
-    "size": 1106015
+    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.20.1/astrolabe-web-0.20.1.zip",
+    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.20.1/astrolabe-web-0.20.1.zip.sig",
+    "sha256": "d46ae7c430d5191287092255700d540eecebc04608fcb931b9892f25a64de124",
+    "size": 1107857
   },
   "apk": {
     "versionCode": 5,
