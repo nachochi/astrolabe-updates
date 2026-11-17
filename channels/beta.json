@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "0.11.0",
-  "build": "13",
-  "notes": "Telescope: pinch/wheel narrows the sky from 50° to 18″ with level of detail (baked H144 glass → live grid → flower-of-life sublevels). The cell readout is engraved on the glass beside the selected cell; tap again to clear. Pre-render: the H144 grid is baked once into a cube map (bake status in debug).",
-  "published": "2026-11-17T01:03:57.521Z",
+  "version": "0.12.0",
+  "build": "14",
+  "notes": "Depth panes: the 3D sky's depth chip shows the sky as glass shells at real log distances — Moon, Sun & planets, Oort cloud, nearby stars, constellation stars at their real (Hipparcos) distances, Milky Way, Local Group, galaxies, and the cosmic microwave background (Planck 2018). The pane stack travels; pinch/wheel move through it. Spread moves stars to their real distances: from the side Orion opens up. A tapped cell is the same place on every pane.",
+  "published": "2026-11-17T01:23:14.385Z",
   "minNative": 5,
   "nativeHash": "f53a270a39f6b828a13aab0fd103a6affa827b23786e1ebc2b1473537b73956c",
   "assetBase": "https://github.com/nachochi/astrolabe-updates/releases/download/assets/",
   "bundle": {
-    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.11.0/astrolabe-web-0.11.0.zip",
-    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.11.0/astrolabe-web-0.11.0.zip.sig",
-    "sha256": "32fe18e1ed42f21983937e769b52b046cf3f02f59a024f1ebe4439fe933ddf8f",
-    "size": 1026380
+    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.12.0/astrolabe-web-0.12.0.zip",
+    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.12.0/astrolabe-web-0.12.0.zip.sig",
+    "sha256": "df969daf597670889e351f109d504aba2b40739ded7558d0273b8f850ed90280",
+    "size": 1057004
   },
   "apk": {
     "versionCode": 5,
