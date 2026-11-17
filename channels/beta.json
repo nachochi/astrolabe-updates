@@ -1,26 +1,26 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "0.21.1",
-  "build": "25",
-  "notes": "0.21.1 fix: tapping a star and then turning ECL/EQ, lenses or time no longer stacks the readout text — the engraving is replaced, never drawn over",
-  "published": "2026-11-17T19:53:08.935Z",
-  "minNative": 5,
-  "nativeHash": "f53a270a39f6b828a13aab0fd103a6affa827b23786e1ebc2b1473537b73956c",
+  "version": "0.21.2",
+  "build": "26",
+  "notes": "0.21.2: when you play time, the 3D depth view now turns with the sky like the wheel and the star background (it stood still before). Holding a finger still on the 3D sky dives in (Iris); a one-time hint now says so.",
+  "published": "2026-11-17T21:27:02.608Z",
+  "minNative": 6,
+  "nativeHash": "0154972d0e953473577209951173bf92262f5810f50ca50d0b5e3c515c81670e",
   "assetBase": "https://github.com/nachochi/astrolabe-updates/releases/download/assets/",
   "bundle": {
-    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.21.1/astrolabe-web-0.21.1.zip",
-    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.21.1/astrolabe-web-0.21.1.zip.sig",
-    "sha256": "c5a4e436b06c8be9f44b28bae0ad74c46c757fc69bee921ce770caa939372316",
-    "size": 1133835
+    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.21.2/astrolabe-web-0.21.2.zip",
+    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.21.2/astrolabe-web-0.21.2.zip.sig",
+    "sha256": "96749546192011821387c5913ae45f9a0f3cfa0b7377bc821543937a6cb10117",
+    "size": 1134051
   },
   "apk": {
-    "versionCode": 5,
-    "versionName": "0.9.0",
-    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/app-5/astrolabe-0.9.0.apk",
-    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/app-5/astrolabe-0.9.0.apk.sig",
-    "sha256": "71d6483445300a3d8c77e78dbdfaa2f0f7a322631212ed44775423f690253d6b",
-    "size": 28491868,
-    "notes": "Offline shelf: Shelf › Download all puts the 30 public-domain books (1.49 GB) on your phone — pause, resume, delete, storage meter; books read with no network (airplane mode). Import your own PDFs privately (＋ Import PDF; stays on this phone)."
+    "versionCode": 6,
+    "versionName": "0.21.2",
+    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/app-6/astrolabe-0.21.2.apk",
+    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/app-6/astrolabe-0.21.2.apk.sig",
+    "sha256": "9d0d192a1aba7587aaf9d25fd6519a15ef75e89f8fe03797e2d2f14ba19aa96a",
+    "size": 29614732,
+    "notes": "0.21.2: when you play time, the 3D depth view now turns with the sky like the wheel and the star background (it stood still before). Holding a finger still on the 3D sky dives in (Iris); a one-time hint now says so."
   }
 }
