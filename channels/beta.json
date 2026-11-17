@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "0.21.0",
-  "build": "24",
-  "notes": "Cosmodex cards redesigned: the front relates everything the object is (live disc for this moment, its synodic seal, astronomy with diagrams, then Lilly/Ptolemy/Agrippa as labelled lenses); quotes and sources on a Credits page; correspondence web; sign cards; natal echo; checkable boxes per section in Settings, on the card and in Commands; subtle life tied to real facts, stilled by reduced motion.",
-  "published": "2026-11-17T12:31:40.419Z",
+  "version": "0.21.1",
+  "build": "25",
+  "notes": "0.21.1 fix: tapping a star and then turning ECL/EQ, lenses or time no longer stacks the readout text — the engraving is replaced, never drawn over",
+  "published": "2026-11-17T19:53:08.935Z",
   "minNative": 5,
   "nativeHash": "f53a270a39f6b828a13aab0fd103a6affa827b23786e1ebc2b1473537b73956c",
   "assetBase": "https://github.com/nachochi/astrolabe-updates/releases/download/assets/",
   "bundle": {
-    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.21.0/astrolabe-web-0.21.0.zip",
-    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.21.0/astrolabe-web-0.21.0.zip.sig",
-    "sha256": "5078380307d9ad9e25b567e07a0f61ed7a936aeca95447fafa29de4d2d9018d4",
-    "size": 1133657
+    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.21.1/astrolabe-web-0.21.1.zip",
+    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.21.1/astrolabe-web-0.21.1.zip.sig",
+    "sha256": "c5a4e436b06c8be9f44b28bae0ad74c46c757fc69bee921ce770caa939372316",
+    "size": 1133835
   },
   "apk": {
     "versionCode": 5,
