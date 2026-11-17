@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.15.0",
-  "build": "17",
-  "notes": "Sound on + Song from the Sun. Sound stays off until you turn it on (Settings › Sound, or type 'voice.mode kepler' in Commands). Six glass voices sing each planet's real angular speed around the Sun, the quantity Kepler heard in 1619. Tap a planet on the wheel to solo it: the engraved line shows where it sits in its own range against Kepler's ratio (Mars: 1.455 vs 2:3). Tap the ♪ line to mute. Audio sleeps when silent or hidden.",
-  "published": "2026-11-17T02:51:45.126Z",
+  "version": "0.16.0",
+  "build": "18",
+  "notes": "Analemma: hold the clock and touch the Sun to draw the year's figure-8 at this clock time; drag along it to scrub the date with snaps at solstices, equinoxes and equation-of-time extremes; the crossing shows both dates; readout 'Sun N m fast · solar noon'; clock mode standard or local mean (Settings). Picking: taps on the wheel pick the likeliest body, or fan close glyphs to choose. Cosmodex cards for the ten luminaries (tap a focused body): Ptolemy quote with source, NASA facts, live position, its cry; flip for sources; works on the cover screen.",
+  "published": "2026-11-17T03:19:35.321Z",
   "minNative": 5,
   "nativeHash": "f53a270a39f6b828a13aab0fd103a6affa827b23786e1ebc2b1473537b73956c",
   "assetBase": "https://github.com/nachochi/astrolabe-updates/releases/download/assets/",
   "bundle": {
-    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.15.0/astrolabe-web-0.15.0.zip",
-    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.15.0/astrolabe-web-0.15.0.zip.sig",
-    "sha256": "1bcec8989244a8b9e45f87e79cd0b1c32c51e7aad6fb08bead71bac987686065",
-    "size": 1075756
+    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.16.0/astrolabe-web-0.16.0.zip",
+    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.16.0/astrolabe-web-0.16.0.zip.sig",
+    "sha256": "915723d10d3306e1b11ff1ae86e374f2f9958aa1e9b8782d6c2d494c0e3134cf",
+    "size": 1088770
   },
   "apk": {
     "versionCode": 5,
