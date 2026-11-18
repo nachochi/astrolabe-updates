@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.23.0",
-  "build": "28",
-  "notes": "0.23: hold still on the wheel to dive into its subdivisions (Wheel Iris); five controls at rest with a rotary view dial and a swipeable page spine; tap a star beside the wheel for its catalog card; Astronomy/Symbols plates act in 3D; every card chip leads somewhere; portrait 3D fills its panel; chains graph browser; new Timeline view (graphic ephemeris, aspect bars, agenda, Moon strip) on the same events as the time bar.",
-  "published": "2026-11-17T23:59:37.123Z",
+  "version": "0.23.1",
+  "build": "29",
+  "notes": "0.23.1 — nothing is unfindable, and a tap is a tap. Settings › ☷ All features (searchable index of every view, plate, gesture, card, setting and command, one-tap jump; also in the view-dial menu and the palette). Restored: ⏮ ⏭ and speed (tap the clock to pin them), Layers › ◫ Depth, Timeline labelled 'book of events', 15 palette commands. Wheel Iris: a tap no longer opens it (even during a heavy frame), and a hold anywhere — even near the hub — shows the zoomed band at full contrast. 3D sky: a tap during a heavy frame no longer jumps a telescope rung. Palette 'voyag' finds Voyager 1 again.",
+  "published": "2026-11-18T02:53:01.796Z",
   "minNative": 7,
   "nativeHash": "f53a270a39f6b828a13aab0fd103a6affa827b23786e1ebc2b1473537b73956c",
   "assetBase": "https://github.com/nachochi/astrolabe-updates/releases/download/assets/",
   "bundle": {
-    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.23.0/astrolabe-web-0.23.0.zip",
-    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.23.0/astrolabe-web-0.23.0.zip.sig",
-    "sha256": "96e72b4d2e85d9634ad8a7cf4b3fcac82b1f81852aa1d8a45cbaaae848ee7bd2",
-    "size": 1181727
+    "url": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.23.1/astrolabe-web-0.23.1.zip",
+    "sigUrl": "https://github.com/nachochi/astrolabe-updates/releases/download/web-0.23.1/astrolabe-web-0.23.1.zip.sig",
+    "sha256": "e2f8c5bd88dc5b505242bba0726d4f16419f9db1799503fe9dc91fadc28b3d2a",
+    "size": 1188885
   },
   "apk": {
     "versionCode": 7,
